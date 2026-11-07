@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Generated reports
+security_report.csv
+traffic_report.csv
+
+# Generated charts
+traffic_chart.png
